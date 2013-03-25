@@ -19,6 +19,7 @@ Small lib to load JavaScript files async and sync, very lightweight and easy to 
 ------------------------------------------------------------------------
 <h1>How to use :</h1>
 
+
 <pre><code>
 &lt;script src=&quot;jQuery-latest&quot;&gt;&lt;/script&gt;
 &lt;script src=&quot;dependency.min.js&quot;&gt;&lt;/script&gt;
