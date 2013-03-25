@@ -1,11 +1,12 @@
 {
     "name": "dependency",
     "title": "Dependency",
-    "description": "jQuery plugin for async and sync JavaScript load.",
+    "description": "jQuery plugin for async and sync JavaScript loading.",
     "keywords": [
         "dependency",
         "async",
-        "loading"
+        "loading",
+        "ajax"
     ],
     "version": "0.1.0",
     "author": {
