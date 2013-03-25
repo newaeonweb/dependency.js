@@ -1,0 +1,35 @@
+{
+    "name": "Dependency",
+    "title": "Dependency loader",
+    "description": "jQuery plugin for async and sync JavaScript load.",
+    "keywords": [
+        "dependency",
+        "async",
+        "loading"
+    ],
+    "version": "01",
+    "author": {
+        "name": "Fernando Monteiro",
+        "url": "http://www.newaeonweb.com.br/html5"
+    },
+    "maintainers": [
+        {
+            "name": "Fernando Monteiro",
+            "email": "fernando@newaeonweb.com.br",
+            "url": "http://www.newaeonweb.com.br"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/newaeonweb/dependency.js/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/jquery/jquery-color/issues",
+    "homepage": "https://github.com/newaeonweb/dependency.js/",
+    "docs": "https://github.com/newaeonweb/dependency.js/",
+    "download": "https://github.com/newaeonweb/dependency.js/archive/master.zip",
+    "dependencies": {
+        "jquery": ">=1.8.3"
+    }
+}
