@@ -1,13 +1,13 @@
 {
-    "name": "Dependency",
-    "title": "Dependency loader",
+    "name": "dependency",
+    "title": "Dependency",
     "description": "jQuery plugin for async and sync JavaScript load.",
     "keywords": [
         "dependency",
         "async",
         "loading"
     ],
-    "version": "01",
+    "version": "0.1",
     "author": {
         "name": "Fernando Monteiro",
         "url": "http://www.newaeonweb.com.br/html5"
