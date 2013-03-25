@@ -22,6 +22,8 @@ Small lib to load JavaScript files async and sync, very lightweight and easy to 
 <script src="jQuery-latest"></script>
 <script src="dependency.min.js"></script>
 
+<pre>
+<code>
 $(window).load(function(){
 	$('head').dependency({
 	    loadDependency: [
@@ -31,6 +33,8 @@ $(window).load(function(){
 	    ]
 	});
 });
+</code>
+</pre>
 -----------------------------------------------------------------------
 
 <h1>More infos:</h1>
